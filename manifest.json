@@ -1,0 +1,41 @@
+{
+  "manifest_version": "1.0",
+  "org": "wlongxiang",
+  "repo": "initpkg",
+  "versions": [
+    {
+      "commit": "9521da8da5286b62fad6f3266f1da03009b1d2f0",
+      "parsed_at": "2026-04-09T17:55:49.453249+00:00",
+      "tag": "v0.1.5",
+      "filetree": "filetree/9521da8da5286b62fad6f3266f1da03009b1d2f0.nq.gz",
+      "blobs": [
+        "blob/59ba092bf71e860afe55c9dcb6166af14f5d5d31.nq.gz",
+        "blob/d4230bb515a1829874718fb294a5e6f816be39e4.nq.gz",
+        "blob/8bdb800aaff6d2cc83697536ba308392f131741a.nq.gz",
+        "blob/ef7a0889aa11163f74cb6446aa10c9c456e11d82.nq.gz",
+        "blob/809e05ebf0a698689437c6612f22c10d345c3db0.nq.gz",
+        "blob/298ea9e213e8c4c11f0431077510d4e325733c65.nq.gz",
+        "blob/6e52361a698499c1a4b9499c02814ba37d455d7e.nq.gz",
+        "blob/c17f58bd8607971bab696c404b985dd6ca0c9561.nq.gz",
+        "blob/bc7b66f071fba1a8ff059fe73e5e769fcdc573c5.nq.gz",
+        "blob/aae46c90322a6cc8a3ec689e897cc4ec76253d0d.nq.gz",
+        "blob/ce6b82303f6f5b9fe71658a5d0f6614e6186d179.nq.gz",
+        "blob/b3c06d488393abb3b3829e5590d42409c995b4cf.nq.gz",
+        "blob/7893348a1b7dbb588983a48e6991282eae7e1b55.nq.gz",
+        "blob/ea3be475cd733b0ec128dc74bd456d98cb05e06e.nq.gz",
+        "blob/62ac892e3514816ff2020ebdf6aea0ad707e11f4.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/1276d0254ffc2b5e4fcf48cd868123238d4ad06f.nq.gz",
+        "blob/82bfbed8ee55af69bd1cca9a7b107b5513d10873.nq.gz",
+        "blob/5eebc633566127bb7fa0470a32866607f4e40826.nq.gz",
+        "blob/224a77957f5db48dfa25c8bb4a35f535202da203.nq.gz",
+        "blob/c1d71f7d998ec5618fdeccd7b3e414c03a50c2c6.nq.gz",
+        "blob/9346f9262ccbafacaf9dd0d387cd21041570767e.nq.gz",
+        "blob/e9714c08fac09ce6c0e7dfd86fad3ec4d5b34823.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
